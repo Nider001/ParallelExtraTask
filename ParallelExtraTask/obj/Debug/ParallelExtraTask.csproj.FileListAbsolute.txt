@@ -1,0 +1,7 @@
+D:\Дмитрий\GitHub\ParallelExtraTask\ParallelExtraTask\bin\Debug\ParallelExtraTask.exe.config
+D:\Дмитрий\GitHub\ParallelExtraTask\ParallelExtraTask\bin\Debug\ParallelExtraTask.exe
+D:\Дмитрий\GitHub\ParallelExtraTask\ParallelExtraTask\bin\Debug\ParallelExtraTask.pdb
+D:\Дмитрий\GitHub\ParallelExtraTask\ParallelExtraTask\obj\Debug\ParallelExtraTask.csprojAssemblyReference.cache
+D:\Дмитрий\GitHub\ParallelExtraTask\ParallelExtraTask\obj\Debug\ParallelExtraTask.csproj.CoreCompileInputs.cache
+D:\Дмитрий\GitHub\ParallelExtraTask\ParallelExtraTask\obj\Debug\ParallelExtraTask.exe
+D:\Дмитрий\GitHub\ParallelExtraTask\ParallelExtraTask\obj\Debug\ParallelExtraTask.pdb
